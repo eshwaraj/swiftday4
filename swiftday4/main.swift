@@ -10,3 +10,5 @@ import Foundation
 
 print("Hello, World!")
 
+var a:Int = 10
+print(a)
